@@ -1,0 +1,20 @@
+---
+- hosts: test123 
+  become: yes
+  tasks:
+   - name: Run a Command
+     command: "uname -n"
+     register: server
+   - name: Print a List of variables
+     debug: var=server.stdout
+  
+   - name: Print a List of variables#2
+     debug: msg="server Name is {{server.stdout}}"
+   
+   - name: Print the setup Facts
+     debug: msg=" server distribution is {{ansible_distribution}}"
+
+   - name: Print the Hostname
+     debug: msg=" my hostname is {{ansible_nodename}}"
+   - name: Print  the IP
+     debug: var=hostvars['kemet'].server.stdout

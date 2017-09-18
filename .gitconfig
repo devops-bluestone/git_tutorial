@@ -1,0 +1,9 @@
+[user]
+	email = devops.bluestone@gmail.com
+	name = devops bluestone
+[http]
+	postbuffer = 524288000
+[pack]
+	windowMemory = 1024m
+[core]
+	preloadIndex = false

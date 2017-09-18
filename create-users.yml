@@ -1,0 +1,10 @@
+--- # creating users
+- name: Create users on the server
+  hosts: serverlist 
+  user: root
+  
+  tasks:
+    - group: name=admin state=present gid=555
+    - user: name=johnd shell=/bin/bash comment="John Doe" uid=1040 group=admin generate_ssh_key=yes ssh_key_bits=2048 ssh_key_file=.ssh/id_rsa
+    - file: path=/etc/passwd mode=06444
+    - file: path=/etc/group mode=06444

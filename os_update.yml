@@ -1,0 +1,6 @@
+---
+- hosts: test123
+  become: yes
+  tasks:
+   - name: upgrade RHEL the operating system
+     yum: name=* update_cache=yes

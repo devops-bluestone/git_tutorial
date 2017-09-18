@@ -1,0 +1,887 @@
+
+Xvnc TigerVNC 1.3.1 - built Sep 13 2016 10:00:38
+Copyright (C) 1999-2011 TigerVNC Team and many others (see README.txt)
+See http://www.tigervnc.org for information on TigerVNC.
+Underlying X server release 11702000, The X.Org Foundation
+
+
+Thu Jul 13 09:07:41 2017
+ vncext:      VNC extension running!
+ vncext:      Listening for VNC connections on all interface(s), port 5900
+ vncext:      created VNC server for screen 0
+
+Thu Jul 13 09:18:46 2017
+ Connections: accepted: 184.105.247.194::49836
+
+Thu Jul 13 09:18:48 2017
+ Connections: closed: 184.105.247.194::49836 (Clean disconnection)
+
+Fri Jul 14 09:17:29 2017
+ Connections: accepted: 74.82.47.5::55756
+
+Fri Jul 14 09:17:31 2017
+ Connections: closed: 74.82.47.5::55756 (Clean disconnection)
+
+Fri Jul 14 09:39:42 2017
+ Connections: accepted: 91.223.133.11::21193
+ SConnection: Client needs protocol version 3.3
+ SConnection: AuthFailureException: Authentication failure
+ Connections: closed: 91.223.133.11::21193 (Authentication failure)
+
+Fri Jul 14 09:48:53 2017
+ Connections: accepted: 91.223.133.11::50009
+ SConnection: Client needs protocol version 3.3
+ SConnection: AuthFailureException: Authentication failure
+ Connections: closed: 91.223.133.11::50009 (Authentication failure)
+
+Fri Jul 14 09:58:05 2017
+ Connections: accepted: 91.223.133.11::14258
+ SConnection: Client needs protocol version 3.3
+ SConnection: AuthFailureException: Authentication failure
+ Connections: closed: 91.223.133.11::14258 (Authentication failure)
+
+Fri Jul 14 10:07:14 2017
+ Connections: accepted: 91.223.133.11::43009
+ SConnection: Client needs protocol version 3.3
+ SConnection: AuthFailureException: Authentication failure
+ Connections: closed: 91.223.133.11::43009 (Authentication failure)
+
+Fri Jul 14 10:16:27 2017
+ Connections: accepted: 91.223.133.11::7255
+ SConnection: Client needs protocol version 3.3
+
+Fri Jul 14 10:16:28 2017
+ SConnection: AuthFailureException: Authentication failure
+ Connections: closed: 91.223.133.11::7255 (Authentication failure)
+
+Fri Jul 14 10:25:44 2017
+ Connections: accepted: 91.223.133.11::36003
+
+Fri Jul 14 10:25:45 2017
+ SConnection: Client needs protocol version 3.3
+ SConnection: AuthFailureException: Authentication failure
+ Connections: closed: 91.223.133.11::36003 (Authentication failure)
+
+Fri Jul 14 10:30:41 2017
+ Connections: accepted: 77.72.83.110::9961
+
+Fri Jul 14 10:30:42 2017
+ Connections: closed: 77.72.83.110::9961 (read: Connection reset by peer (104))
+ Connections: accepted: 77.72.83.110::20304
+
+Fri Jul 14 10:30:44 2017
+ Connections: closed: 77.72.83.110::20304 (reading version failed: not an RFB
+              client?)
+
+Fri Jul 14 10:30:46 2017
+ Connections: accepted: 77.72.83.110::57462
+
+Fri Jul 14 10:30:48 2017
+ Connections: closed: 77.72.83.110::57462 (reading version failed: not an RFB
+              client?)
+
+Fri Jul 14 10:35:00 2017
+ Connections: accepted: 91.223.133.11::64751
+ SConnection: Client needs protocol version 3.3
+ SConnection: AuthFailureException: Authentication failure
+ Connections: closed: 91.223.133.11::64751 (Authentication failure)
+
+Fri Jul 14 10:44:14 2017
+ Connections: accepted: 91.223.133.11::28995
+ SConnection: Client needs protocol version 3.3
+ SConnection: AuthFailureException: Authentication failure
+ Connections: closed: 91.223.133.11::28995 (Authentication failure)
+
+Fri Jul 14 10:53:29 2017
+ Connections: accepted: 91.223.133.11::57737
+ SConnection: Client needs protocol version 3.3
+ SConnection: AuthFailureException: Authentication failure
+ Connections: closed: 91.223.133.11::57737 (Authentication failure)
+
+Fri Jul 14 11:02:48 2017
+ Connections: accepted: 91.223.133.11::21940
+ SConnection: Client needs protocol version 3.3
+ SConnection: AuthFailureException: Authentication failure
+ Connections: closed: 91.223.133.11::21940 (Authentication failure)
+
+Fri Jul 14 11:12:06 2017
+ Connections: accepted: 91.223.133.11::50602
+ SConnection: Client needs protocol version 3.3
+ SConnection: AuthFailureException: Authentication failure
+ Connections: closed: 91.223.133.11::50602 (Authentication failure)
+
+Fri Jul 14 11:21:22 2017
+ Connections: blacklisted: 91.223.133.11
+
+Fri Jul 14 11:30:36 2017
+ Connections: accepted: 91.223.133.11::43408
+ SConnection: Client needs protocol version 3.3
+ SConnection: AuthFailureException: Authentication failure
+ Connections: closed: 91.223.133.11::43408 (Authentication failure)
+
+Fri Jul 14 11:39:45 2017
+ Connections: blacklisted: 91.223.133.11
+
+Fri Jul 14 11:49:02 2017
+ Connections: blacklisted: 91.223.133.11
+
+Fri Jul 14 14:09:31 2017
+ Connections: accepted: 158.85.81.124::10000
+
+Fri Jul 14 14:09:32 2017
+ SConnection: Client needs protocol version 3.8
+ Connections: closed: 158.85.81.124::10000 (Requested security type not
+              available)
+
+Fri Jul 14 15:05:23 2017
+ Connections: accepted: 93.174.93.240::60907
+ Connections: closed: 93.174.93.240::60907 (read: Connection reset by peer
+              (104))
+ Connections: accepted: 93.174.93.240::13430
+ SConnection: Client needs protocol version 3.8
+
+Fri Jul 14 15:05:24 2017
+ SConnection: Client requests security type VncAuth(2)
+ SConnection: AuthFailureException: Authentication failure
+ Connections: closed: 93.174.93.240::13430 (Authentication failure)
+ Connections: accepted: 93.174.93.240::61212
+ SConnection: Client needs protocol version 3.8
+ SConnection: Client requests security type VncAuth(2)
+
+Fri Jul 14 15:05:25 2017
+ SConnection: AuthFailureException: Authentication failure
+ Connections: closed: 93.174.93.240::61212 (Authentication failure)
+ Connections: accepted: 93.174.93.240::26083
+ SConnection: Client needs protocol version 3.8
+ SConnection: Client requests security type VncAuth(2)
+ SConnection: AuthFailureException: Authentication failure
+ Connections: closed: 93.174.93.240::26083 (Authentication failure)
+
+Fri Jul 14 15:05:26 2017
+ Connections: accepted: 93.174.93.240::12114
+ SConnection: Client needs protocol version 3.8
+ SConnection: Client requests security type VncAuth(2)
+ SConnection: AuthFailureException: Authentication failure
+ Connections: closed: 93.174.93.240::12114 (Authentication failure)
+ Connections: blacklisted: 93.174.93.240
+
+Fri Jul 14 15:05:27 2017
+ Connections: blacklisted: 93.174.93.240
+ Connections: blacklisted: 93.174.93.240
+
+Fri Jul 14 15:05:28 2017
+ Connections: blacklisted: 93.174.93.240
+ Connections: blacklisted: 93.174.93.240
+
+Fri Jul 14 15:05:29 2017
+ Connections: blacklisted: 93.174.93.240
+ Connections: blacklisted: 93.174.93.240
+
+Fri Jul 14 15:05:30 2017
+ Connections: blacklisted: 93.174.93.240
+ Connections: blacklisted: 93.174.93.240
+ Connections: blacklisted: 93.174.93.240
+
+Fri Jul 14 15:05:31 2017
+ Connections: blacklisted: 93.174.93.240
+ Connections: blacklisted: 93.174.93.240
+
+Fri Jul 14 15:05:32 2017
+ Connections: blacklisted: 93.174.93.240
+ Connections: blacklisted: 93.174.93.240
+ Connections: blacklisted: 93.174.93.240
+
+Fri Jul 14 15:05:33 2017
+ Connections: blacklisted: 93.174.93.240
+ Connections: blacklisted: 93.174.93.240
+ Connections: blacklisted: 93.174.93.240
+
+Fri Jul 14 15:05:34 2017
+ Connections: blacklisted: 93.174.93.240
+ Connections: blacklisted: 93.174.93.240
+ Connections: blacklisted: 93.174.93.240
+
+Fri Jul 14 15:05:35 2017
+ Connections: blacklisted: 93.174.93.240
+ Connections: blacklisted: 93.174.93.240
+ Connections: blacklisted: 93.174.93.240
+
+Fri Jul 14 15:05:36 2017
+ Connections: accepted: 93.174.93.240::60780
+ SConnection: Client needs protocol version 3.8
+ SConnection: Client requests security type VncAuth(2)
+ SConnection: AuthFailureException: Authentication failure
+ Connections: closed: 93.174.93.240::60780 (Authentication failure)
+ Connections: blacklisted: 93.174.93.240
+
+Fri Jul 14 15:05:37 2017
+ Connections: blacklisted: 93.174.93.240
+ Connections: blacklisted: 93.174.93.240
+
+Fri Jul 14 15:05:38 2017
+ Connections: blacklisted: 93.174.93.240
+
+Fri Jul 14 15:05:39 2017
+ Connections: blacklisted: 93.174.93.240
+
+Fri Jul 14 15:05:40 2017
+ Connections: blacklisted: 93.174.93.240
+ Connections: blacklisted: 93.174.93.240
+
+Fri Jul 14 15:05:41 2017
+ Connections: blacklisted: 93.174.93.240
+ Connections: blacklisted: 93.174.93.240
+
+Fri Jul 14 15:05:42 2017
+ Connections: blacklisted: 93.174.93.240
+ Connections: blacklisted: 93.174.93.240
+ Connections: blacklisted: 93.174.93.240
+
+Fri Jul 14 15:05:43 2017
+ Connections: blacklisted: 93.174.93.240
+ Connections: blacklisted: 93.174.93.240
+
+Fri Jul 14 15:05:44 2017
+ Connections: blacklisted: 93.174.93.240
+
+Fri Jul 14 16:00:16 2017
+ Connections: accepted: 80.82.77.33::47637
+ Connections: closed: 80.82.77.33::47637 (reading version failed: not an RFB
+              client?)
+ Connections: accepted: 80.82.77.33::48111
+
+Fri Jul 14 16:00:17 2017
+ SConnection: Client needs protocol version 3.8
+
+Fri Jul 14 16:00:19 2017
+ Connections: closed: 80.82.77.33::48111 (Clean disconnection)
+
+Fri Jul 14 18:40:06 2017
+ Connections: accepted: 93.174.93.240::43009
+ SConnection: Client needs protocol version 3.3
+
+Fri Jul 14 18:40:07 2017
+ SConnection: AuthFailureException: Authentication failure
+ Connections: closed: 93.174.93.240::43009 (Authentication failure)
+
+Fri Jul 14 18:52:09 2017
+ Connections: accepted: 93.174.93.240::13312
+ SConnection: Client needs protocol version 3.3
+
+Fri Jul 14 18:52:10 2017
+ SConnection: AuthFailureException: Authentication failure
+ Connections: closed: 93.174.93.240::13312 (Authentication failure)
+
+Fri Jul 14 19:04:10 2017
+ Connections: accepted: 93.174.93.240::48118
+ SConnection: Client needs protocol version 3.3
+
+Fri Jul 14 19:04:11 2017
+ SConnection: AuthFailureException: Authentication failure
+ Connections: closed: 93.174.93.240::48118 (Authentication failure)
+
+Fri Jul 14 19:16:08 2017
+ Connections: accepted: 93.174.93.240::18411
+ SConnection: Client needs protocol version 3.3
+
+Fri Jul 14 19:16:10 2017
+ SConnection: AuthFailureException: Authentication failure
+ Connections: closed: 93.174.93.240::18411 (Authentication failure)
+
+Fri Jul 14 19:28:08 2017
+ Connections: accepted: 93.174.93.240::53213
+ SConnection: Client needs protocol version 3.3
+
+Fri Jul 14 19:28:09 2017
+ SConnection: AuthFailureException: Authentication failure
+ Connections: closed: 93.174.93.240::53213 (Authentication failure)
+
+Fri Jul 14 19:40:02 2017
+ Connections: accepted: 93.174.93.240::23499
+ SConnection: Client needs protocol version 3.3
+
+Fri Jul 14 19:40:03 2017
+ SConnection: AuthFailureException: Authentication failure
+ Connections: closed: 93.174.93.240::23499 (Authentication failure)
+
+Fri Jul 14 19:51:57 2017
+ Connections: blacklisted: 93.174.93.240
+
+Fri Jul 14 20:03:17 2017
+ Connections: accepted: 93.174.93.240::28586
+
+Fri Jul 14 20:03:18 2017
+ SConnection: Client needs protocol version 3.3
+
+Fri Jul 14 20:03:19 2017
+ SConnection: AuthFailureException: Authentication failure
+ Connections: closed: 93.174.93.240::28586 (Authentication failure)
+
+Fri Jul 14 20:14:17 2017
+ Connections: blacklisted: 93.174.93.240
+
+Fri Jul 14 20:25:21 2017
+ Connections: blacklisted: 93.174.93.240
+
+Fri Jul 14 20:36:23 2017
+ Connections: blacklisted: 93.174.93.240
+
+Fri Jul 14 20:47:21 2017
+ Connections: accepted: 93.174.93.240::38756
+ SConnection: Client needs protocol version 3.3
+ SConnection: AuthFailureException: Authentication failure
+ Connections: closed: 93.174.93.240::38756 (Authentication failure)
+
+Fri Jul 14 20:58:14 2017
+ Connections: blacklisted: 93.174.93.240
+
+Fri Jul 14 21:09:45 2017
+ Connections: blacklisted: 93.174.93.240
+
+Fri Jul 14 21:21:30 2017
+ Connections: blacklisted: 93.174.93.240
+
+Fri Jul 14 21:33:03 2017
+ Connections: blacklisted: 93.174.93.240
+
+Fri Jul 14 21:44:41 2017
+ Connections: blacklisted: 93.174.93.240
+
+Fri Jul 14 21:56:22 2017
+ Connections: blacklisted: 93.174.93.240
+
+Fri Jul 14 22:08:07 2017
+ Connections: blacklisted: 93.174.93.240
+
+Fri Jul 14 22:19:40 2017
+ Connections: accepted: 93.174.93.240::59088
+ SConnection: Client needs protocol version 3.3
+ SConnection: AuthFailureException: Authentication failure
+ Connections: closed: 93.174.93.240::59088 (Authentication failure)
+
+Fri Jul 14 22:31:12 2017
+ Connections: blacklisted: 93.174.93.240
+
+Fri Jul 14 22:42:43 2017
+ Connections: blacklisted: 93.174.93.240
+
+Fri Jul 14 22:54:14 2017
+ Connections: blacklisted: 93.174.93.240
+
+Fri Jul 14 23:05:45 2017
+ Connections: blacklisted: 93.174.93.240
+
+Fri Jul 14 23:17:23 2017
+ Connections: blacklisted: 93.174.93.240
+
+Fri Jul 14 23:29:03 2017
+ Connections: blacklisted: 93.174.93.240
+
+Fri Jul 14 23:40:49 2017
+ Connections: blacklisted: 93.174.93.240
+
+Fri Jul 14 23:52:24 2017
+ Connections: blacklisted: 93.174.93.240
+
+Sat Jul 15 00:03:56 2017
+ Connections: blacklisted: 93.174.93.240
+
+Sat Jul 15 00:15:31 2017
+ Connections: blacklisted: 93.174.93.240
+
+Sat Jul 15 00:27:17 2017
+ Connections: blacklisted: 93.174.93.240
+
+Sat Jul 15 00:38:54 2017
+ Connections: blacklisted: 93.174.93.240
+
+Sat Jul 15 00:50:33 2017
+ Connections: blacklisted: 93.174.93.240
+
+Sat Jul 15 01:02:10 2017
+ Connections: blacklisted: 93.174.93.240
+
+Sat Jul 15 01:13:44 2017
+ Connections: accepted: 93.174.93.240::62693
+ SConnection: Client needs protocol version 3.3
+
+Sat Jul 15 01:13:45 2017
+ SConnection: AuthFailureException: Authentication failure
+ Connections: closed: 93.174.93.240::62693 (Authentication failure)
+
+Sat Jul 15 01:25:16 2017
+ Connections: blacklisted: 93.174.93.240
+
+Sat Jul 15 01:36:50 2017
+ Connections: blacklisted: 93.174.93.240
+
+Sat Jul 15 01:48:23 2017
+ Connections: blacklisted: 93.174.93.240
+
+Sat Jul 15 02:00:02 2017
+ Connections: blacklisted: 93.174.93.240
+
+Sat Jul 15 02:11:32 2017
+ Connections: blacklisted: 93.174.93.240
+
+Sat Jul 15 02:23:09 2017
+ Connections: blacklisted: 93.174.93.240
+
+Sat Jul 15 03:59:38 2017
+ Connections: accepted: 31.131.251.199::55575
+
+Sat Jul 15 03:59:48 2017
+ Connections: closed: 31.131.251.199::55575 (read: Connection reset by peer
+              (104))
+ Connections: accepted: 31.131.251.199::60992
+
+Sat Jul 15 03:59:59 2017
+ Connections: closed: 31.131.251.199::60992 (reading version failed: not an RFB
+              client?)
+
+Sat Jul 15 04:00:15 2017
+ Connections: accepted: 31.131.251.199::10721
+
+Sat Jul 15 04:00:26 2017
+ Connections: closed: 31.131.251.199::10721 (reading version failed: not an RFB
+              client?)
+
+Sat Jul 15 04:06:33 2017
+ Connections: blacklisted: 93.174.93.240
+
+Sat Jul 15 04:18:11 2017
+ Connections: blacklisted: 93.174.93.240
+
+Sat Jul 15 04:29:48 2017
+ Connections: blacklisted: 93.174.93.240
+
+Sat Jul 15 04:41:25 2017
+ Connections: blacklisted: 93.174.93.240
+
+Sat Jul 15 04:52:58 2017
+ Connections: blacklisted: 93.174.93.240
+
+Sat Jul 15 05:04:35 2017
+ Connections: blacklisted: 93.174.93.240
+
+Sat Jul 15 05:16:14 2017
+ Connections: blacklisted: 93.174.93.240
+
+Sat Jul 15 05:27:48 2017
+ Connections: blacklisted: 93.174.93.240
+
+Sat Jul 15 05:39:22 2017
+ Connections: blacklisted: 93.174.93.240
+
+Sat Jul 15 09:02:06 2017
+ Connections: accepted: 74.82.47.4::62540
+
+Sat Jul 15 09:02:07 2017
+ Connections: closed: 74.82.47.4::62540 (Clean disconnection)
+
+Sat Jul 15 14:28:49 2017
+ Connections: accepted: 93.174.93.240::37709
+ SConnection: Client needs protocol version 3.3
+
+Sat Jul 15 14:28:51 2017
+ SConnection: AuthFailureException: Authentication failure
+ Connections: closed: 93.174.93.240::37709 (Authentication failure)
+
+Sat Jul 15 14:41:26 2017
+ Connections: blacklisted: 93.174.93.240
+
+Sat Jul 15 14:53:49 2017
+ Connections: blacklisted: 93.174.93.240
+
+Sat Jul 15 15:06:13 2017
+ Connections: blacklisted: 93.174.93.240
+
+Sat Jul 15 15:18:35 2017
+ Connections: blacklisted: 93.174.93.240
+
+Sat Jul 15 15:30:54 2017
+ Connections: blacklisted: 93.174.93.240
+
+Sat Jul 15 15:43:16 2017
+ Connections: blacklisted: 93.174.93.240
+
+Sat Jul 15 15:52:58 2017
+ Connections: blacklisted: 93.174.93.240
+
+Sat Jul 15 16:05:20 2017
+ Connections: blacklisted: 93.174.93.240
+
+Sat Jul 15 16:17:40 2017
+ Connections: blacklisted: 93.174.93.240
+
+Sat Jul 15 16:29:58 2017
+ Connections: blacklisted: 93.174.93.240
+
+Sat Jul 15 16:42:19 2017
+ Connections: blacklisted: 93.174.93.240
+
+Sat Jul 15 16:54:39 2017
+ Connections: blacklisted: 93.174.93.240
+
+Sat Jul 15 17:06:56 2017
+ Connections: blacklisted: 93.174.93.240
+
+Sat Jul 15 17:19:13 2017
+ Connections: blacklisted: 93.174.93.240
+
+Sat Jul 15 17:31:31 2017
+ Connections: blacklisted: 93.174.93.240
+
+Sat Jul 15 17:43:46 2017
+ Connections: blacklisted: 93.174.93.240
+
+Sat Jul 15 17:56:01 2017
+ Connections: blacklisted: 93.174.93.240
+
+Sat Jul 15 18:08:17 2017
+ Connections: blacklisted: 93.174.93.240
+
+Sat Jul 15 18:20:34 2017
+ Connections: blacklisted: 93.174.93.240
+
+Sat Jul 15 18:32:51 2017
+ Connections: blacklisted: 93.174.93.240
+
+Sat Jul 15 18:45:04 2017
+ Connections: blacklisted: 93.174.93.240
+
+Sat Jul 15 18:57:17 2017
+ Connections: blacklisted: 93.174.93.240
+
+Sat Jul 15 19:09:31 2017
+ Connections: blacklisted: 93.174.93.240
+
+Sat Jul 15 19:21:47 2017
+ Connections: blacklisted: 93.174.93.240
+
+Sat Jul 15 19:34:04 2017
+ Connections: blacklisted: 93.174.93.240
+
+Sat Jul 15 19:46:17 2017
+ Connections: blacklisted: 93.174.93.240
+
+Sat Jul 15 19:58:30 2017
+ Connections: blacklisted: 93.174.93.240
+
+Sat Jul 15 20:22:52 2017
+ Connections: blacklisted: 93.174.93.240
+
+Sat Jul 15 20:35:05 2017
+ Connections: blacklisted: 93.174.93.240
+
+Sat Jul 15 20:47:17 2017
+ Connections: blacklisted: 93.174.93.240
+
+Sat Jul 15 20:59:27 2017
+ Connections: blacklisted: 93.174.93.240
+
+Sat Jul 15 21:11:42 2017
+ Connections: blacklisted: 93.174.93.240
+
+Sat Jul 15 21:23:52 2017
+ Connections: blacklisted: 93.174.93.240
+
+Sat Jul 15 21:36:02 2017
+ Connections: blacklisted: 93.174.93.240
+
+Sat Jul 15 21:48:20 2017
+ Connections: blacklisted: 93.174.93.240
+
+Sat Jul 15 22:00:26 2017
+ Connections: blacklisted: 93.174.93.240
+
+Sat Jul 15 22:11:58 2017
+ Connections: blacklisted: 93.174.93.240
+
+Sat Jul 15 22:23:29 2017
+ Connections: blacklisted: 93.174.93.240
+
+Sat Jul 15 22:35:02 2017
+ Connections: blacklisted: 93.174.93.240
+
+Sat Jul 15 22:46:34 2017
+ Connections: blacklisted: 93.174.93.240
+
+Sat Jul 15 22:58:06 2017
+ Connections: blacklisted: 93.174.93.240
+
+Sat Jul 15 23:10:11 2017
+ Connections: blacklisted: 93.174.93.240
+
+Sat Jul 15 23:22:24 2017
+ Connections: blacklisted: 93.174.93.240
+
+Sat Jul 15 23:34:41 2017
+ Connections: blacklisted: 93.174.93.240
+
+Sat Jul 15 23:46:50 2017
+ Connections: blacklisted: 93.174.93.240
+
+Sat Jul 15 23:59:06 2017
+ Connections: blacklisted: 93.174.93.240
+
+Sun Jul 16 09:03:44 2017
+ Connections: accepted: 184.105.139.69::14188
+
+Sun Jul 16 09:03:46 2017
+ Connections: closed: 184.105.139.69::14188 (Clean disconnection)
+
+Sun Jul 16 16:01:55 2017
+ Connections: accepted: 89.248.167.131::40720
+ Connections: closed: 89.248.167.131::40720 (reading version failed: not an RFB
+              client?)
+
+Sun Jul 16 16:01:57 2017
+ Connections: accepted: 89.248.167.131::41117
+
+Sun Jul 16 16:01:59 2017
+ SConnection: Client needs protocol version 3.8
+
+Sun Jul 16 16:02:28 2017
+ Connections: closed: 89.248.167.131::41117 (Clean disconnection)
+
+Sun Jul 16 16:53:53 2017
+ Connections: accepted: 93.174.93.240::39170
+ SConnection: Client needs protocol version 3.3
+
+Sun Jul 16 16:53:54 2017
+ SConnection: AuthFailureException: Authentication failure
+ Connections: closed: 93.174.93.240::39170 (Authentication failure)
+
+Sun Jul 16 17:04:19 2017
+ Connections: blacklisted: 93.174.93.240
+
+Sun Jul 16 17:14:28 2017
+ Connections: blacklisted: 93.174.93.240
+
+Sun Jul 16 17:24:31 2017
+ Connections: blacklisted: 93.174.93.240
+
+Sun Jul 16 17:34:37 2017
+ Connections: blacklisted: 93.174.93.240
+
+Sun Jul 16 17:44:40 2017
+ Connections: blacklisted: 93.174.93.240
+
+Sun Jul 16 17:54:43 2017
+ Connections: blacklisted: 93.174.93.240
+
+Sun Jul 16 18:04:42 2017
+ Connections: blacklisted: 93.174.93.240
+
+Sun Jul 16 18:14:48 2017
+ Connections: blacklisted: 93.174.93.240
+
+Sun Jul 16 18:24:48 2017
+ Connections: blacklisted: 93.174.93.240
+
+Sun Jul 16 18:34:46 2017
+ Connections: blacklisted: 93.174.93.240
+
+Sun Jul 16 18:44:47 2017
+ Connections: blacklisted: 93.174.93.240
+
+Sun Jul 16 18:54:46 2017
+ Connections: blacklisted: 93.174.93.240
+
+Sun Jul 16 19:04:48 2017
+ Connections: blacklisted: 93.174.93.240
+
+Sun Jul 16 19:14:46 2017
+ Connections: blacklisted: 93.174.93.240
+
+Sun Jul 16 19:24:43 2017
+ Connections: blacklisted: 93.174.93.240
+
+Sun Jul 16 19:34:42 2017
+ Connections: blacklisted: 93.174.93.240
+
+Sun Jul 16 19:44:38 2017
+ Connections: blacklisted: 93.174.93.240
+
+Sun Jul 16 19:54:37 2017
+ Connections: blacklisted: 93.174.93.240
+
+Sun Jul 16 20:04:33 2017
+ Connections: blacklisted: 93.174.93.240
+
+Sun Jul 16 20:14:31 2017
+ Connections: blacklisted: 93.174.93.240
+
+Sun Jul 16 20:24:30 2017
+ Connections: blacklisted: 93.174.93.240
+
+Sun Jul 16 20:34:27 2017
+ Connections: blacklisted: 93.174.93.240
+
+Sun Jul 16 20:44:22 2017
+ Connections: blacklisted: 93.174.93.240
+
+Sun Jul 16 20:54:17 2017
+ Connections: blacklisted: 93.174.93.240
+
+Sun Jul 16 21:04:12 2017
+ Connections: blacklisted: 93.174.93.240
+
+Sun Jul 16 21:14:07 2017
+ Connections: blacklisted: 93.174.93.240
+
+Sun Jul 16 21:24:04 2017
+ Connections: blacklisted: 93.174.93.240
+
+Sun Jul 16 21:34:00 2017
+ Connections: blacklisted: 93.174.93.240
+
+Sun Jul 16 21:44:00 2017
+ Connections: blacklisted: 93.174.93.240
+
+Sun Jul 16 21:53:59 2017
+ Connections: blacklisted: 93.174.93.240
+
+Sun Jul 16 22:03:55 2017
+ Connections: blacklisted: 93.174.93.240
+
+Sun Jul 16 22:13:53 2017
+ Connections: blacklisted: 93.174.93.240
+
+Sun Jul 16 22:14:36 2017
+ Connections: accepted: 94.102.49.213::63755
+ SConnection: Client needs protocol version 3.4
+ SConnection: Client uses unofficial protocol version 3.4
+ SConnection: Assuming compatibility with version 3.3
+
+Sun Jul 16 22:14:37 2017
+ SConnection: AuthFailureException: Authentication failure
+ Connections: closed: 94.102.49.213::63755 (Authentication failure)
+
+Sun Jul 16 22:23:48 2017
+ Connections: blacklisted: 93.174.93.240
+
+Sun Jul 16 22:33:51 2017
+ Connections: blacklisted: 93.174.93.240
+
+Sun Jul 16 22:43:52 2017
+ Connections: blacklisted: 93.174.93.240
+
+Sun Jul 16 22:53:50 2017
+ Connections: blacklisted: 93.174.93.240
+
+Sun Jul 16 23:03:47 2017
+ Connections: blacklisted: 93.174.93.240
+
+Sun Jul 16 23:13:42 2017
+ Connections: blacklisted: 93.174.93.240
+
+Sun Jul 16 23:23:41 2017
+ Connections: blacklisted: 93.174.93.240
+
+Sun Jul 16 23:33:37 2017
+ Connections: blacklisted: 93.174.93.240
+
+Mon Jul 17 09:08:38 2017
+ Connections: accepted: 216.218.206.67::57828
+
+Mon Jul 17 09:08:40 2017
+ Connections: closed: 216.218.206.67::57828 (Clean disconnection)
+
+Mon Jul 17 14:21:40 2017
+ Connections: blacklisted: 93.174.93.240
+
+Mon Jul 17 14:32:39 2017
+ Connections: blacklisted: 93.174.93.240
+
+Mon Jul 17 14:43:36 2017
+ Connections: blacklisted: 93.174.93.240
+
+Mon Jul 17 14:54:33 2017
+ Connections: blacklisted: 93.174.93.240
+
+Mon Jul 17 15:05:29 2017
+ Connections: blacklisted: 93.174.93.240
+
+Mon Jul 17 15:16:23 2017
+ Connections: blacklisted: 93.174.93.240
+
+Mon Jul 17 15:27:23 2017
+ Connections: blacklisted: 93.174.93.240
+
+Mon Jul 17 15:38:16 2017
+ Connections: blacklisted: 93.174.93.240
+
+Mon Jul 17 15:49:17 2017
+ Connections: accepted: 93.174.93.240::10230
+ SConnection: Client needs protocol version 3.3
+
+Mon Jul 17 15:49:18 2017
+ SConnection: AuthFailureException: Authentication failure
+ Connections: closed: 93.174.93.240::10230 (Authentication failure)
+
+Mon Jul 17 16:00:21 2017
+ Connections: blacklisted: 93.174.93.240
+
+Mon Jul 17 16:11:13 2017
+ Connections: blacklisted: 93.174.93.240
+
+Mon Jul 17 16:22:03 2017
+ Connections: blacklisted: 93.174.93.240
+
+Mon Jul 17 16:32:53 2017
+ Connections: blacklisted: 93.174.93.240
+
+Mon Jul 17 16:43:42 2017
+ Connections: blacklisted: 93.174.93.240
+
+Mon Jul 17 16:54:33 2017
+ Connections: blacklisted: 93.174.93.240
+
+Mon Jul 17 17:05:23 2017
+ Connections: blacklisted: 93.174.93.240
+
+Mon Jul 17 17:16:14 2017
+ Connections: blacklisted: 93.174.93.240
+
+Mon Jul 17 17:27:05 2017
+ Connections: blacklisted: 93.174.93.240
+
+Mon Jul 17 17:37:57 2017
+ Connections: blacklisted: 93.174.93.240
+
+Mon Jul 17 17:48:46 2017
+ Connections: blacklisted: 93.174.93.240
+
+Mon Jul 17 17:59:35 2017
+ Connections: blacklisted: 93.174.93.240
+
+Mon Jul 17 18:10:24 2017
+ Connections: blacklisted: 93.174.93.240
+
+Mon Jul 17 18:21:07 2017
+ Connections: blacklisted: 93.174.93.240
+
+Mon Jul 17 18:31:52 2017
+ Connections: blacklisted: 93.174.93.240
+
+Mon Jul 17 18:42:36 2017
+ Connections: blacklisted: 93.174.93.240
+
+Mon Jul 17 18:53:25 2017
+ Connections: blacklisted: 93.174.93.240
+
+Mon Jul 17 19:04:12 2017
+ Connections: blacklisted: 93.174.93.240
+
+Mon Jul 17 19:14:59 2017
+ Connections: blacklisted: 93.174.93.240
+
+Mon Jul 17 20:17:44 2017
+ Connections: accepted: 169.54.233.116::10000
+ SConnection: Client needs protocol version 3.8
+
+Mon Jul 17 20:17:45 2017
+ Connections: closed: 169.54.233.116::10000 (Requested security type not
+              available)

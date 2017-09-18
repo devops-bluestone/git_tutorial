@@ -1,0 +1,14 @@
+---
+- hosts: test123
+  become: yes
+  tasks:
+   - name: Install additional packages 
+     yum: name={{item}} state=present update_cache=yes
+     with_items:
+      - docker
+      - git
+      - httpd
+   - name: Install Jenkins repos 
+     command: wget -O /etc/yum.repos.d/jenkins.repo http://pkg.jenkins-ci.org/redhat/jenkins.repo
+     command: rpm --import https://jenkins-ci.org/redhat/jenkins-ci.org.key
+     command: yum install jenkins
