@@ -451,3 +451,41 @@ history
 git remote rm origin && git remote add origin devops-bluestone@github.com:devops.bluestone.git
 git config --global remote.origin.receivepack "git receive-pack"
 git push -u origin master
+clear
+ls -ltr
+history
+git push -u origin master
+git remote rm origin && git remote add origin devops-bluestone@github.com:devops.bluestone.git
+git remote -v
+git push origin master
+clear
+ls -ltr
+git push -u origin master
+pwd
+cd .ssh/
+cat id_rsa.pub 
+clear
+history
+git remote rm origin && git remote add origin devops-bluestone@github.com:devops.bluestone.git
+git push -u origin master
+ll
+pwd
+history
+history|grep git
+git remote remove origin
+git init 
+echo "# git_tutorial" >> README.md
+git init
+git commit -m "Kwame Dada 1st commit"
+git commit -am "Kwame Dada 1st commit"
+ls -ltr
+git remote add origin https://github.com/devops-bluestone/devops.bluestone.git
+git push -u origin master
+git remote add origin https://github.com/devops-bluestone/git_tutorial.git
+git remote remove origin
+git remote add origin https://github.com/devops-bluestone/git_tutorial.git
+git push -u origin master
+pwd
+ll
+history
+git remote rm origin && git remote add origin devops-bluestone@github.com:devops.bluestone.git && git push -u origin master && git push -u origin master
