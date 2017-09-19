@@ -7,3 +7,5 @@
 	windowMemory = 1024m
 [core]
 	preloadIndex = false
+[remote "origin"]
+	receivepack = git receive-pack

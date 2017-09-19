@@ -324,3 +324,130 @@ systemctl stop httpd
 systemctl disable httpd
 ansible-playbook register-service.yml -i ./hosts.yml
 service httpd status
+exit
+clear
+df -h
+git status
+clear
+df -h
+clear
+uname -r
+uname -rn
+lvs
+clear
+df -Ht
+T
+df -HT
+rpm --import https://artifacts.elastic.co/GPG-KEY-elasticsearch
+vi /etc/yum.repos.d/kibana.repo
+yum install kibana
+chkconfig --add kibana
+service kibana status
+service kibana start
+service kibana status
+ps -ef |grep kibana
+/bin/systemctl daemon-reload
+/bin/systemctl enable kibana.service
+pwd
+which git
+git --version
+ping ankh
+ll
+git add .
+git commit .
+git init
+git config --global user.name "devops bluestone"
+git config --global user.email devops.bluestone@gmail.com
+git config --list
+touch devops.bluestone
+vi devops.bluestone 
+git add devops.bluestone 
+git commit –m ”This is my First commit”
+git commit –m”This is my First commit”
+clear
+git commit –am ”This is my First commit”
+git commit –m 'This is my First commit'
+git commit –m "This is my First commit"
+git commit
+git commit –m "This is my First commit" devops.bluestone 
+clear
+git log
+ll
+git status
+git commit -am " First Commit" .
+git commit -m " First Commit" .
+git log
+git commit -m " First Commit" devops.bluestone 
+git status
+ git remote add origin git@github.com:scmgalaxy/dsadasdasd.git
+git push -u origin master
+ git remote add origin devops-bluestone@github.com:scmgalaxy/dsadasdasd.git
+ git remote add origin devops-bluestone@github.com:scmgalaxy/cancadianTire.git
+ git remote add origin devops-bluestone@github.com:scmgalaxy/dsadasdasd1.git
+ git remote add origin devops-bluestone@github.com:CanTire/CanRepo.git
+ git remote add origin git@github.com:CanTire/CanRepo.git
+git remote -v
+git rm origin
+git remote rm origin 
+git remote -v
+clear
+ll
+ls -ltr
+ git remote add origin devops-bluestone@github.com:CanTire/CanRepo.git
+git remove -v
+git remote -v
+git push -u origin master
+ git remote add origin git@github.com:CanTire/CanRepo.git
+git remote rm origin 
+ git remote add origin git@github.com:CanTire/CanRepo.git
+git remote -v
+git push -u origin master
+ git remote add origin git@github.com:scmgalaxy/dsadasdasd.git
+git remote rm origin 
+ git remote add origin git@github.com:scmgalaxy/dsadasdasd.git
+git push -u origin master
+git remote remove origin
+git remote add origin https://github.com/devops-bluestone/jenkins_test
+git remote remove origin
+git remove -v
+git remote -v
+clear
+ git remote add origin git@github.com:scmgalaxy/dsadasdasd.git
+git push -u origin master
+git remote remove origin
+clear
+ll
+git push origin master
+ git remote add origin devops-bluestone@github
+git push origin master
+git remote add origin git@github.com:User/UserRepo.git
+git remote remove origin
+git remote add origin git@github.com:User/UserRepo.git
+git remote remove origin
+git remote add origin git@github.com:User/UserRepo.git
+git push -u origin master
+pwd
+ll
+mv devops.bluestone devops.bluestone.git
+git remote add origin devops-bluestone@github.com:devops.bluestone.git
+git remote rm origin
+git remote add origin devops-bluestone@github.com:devops.bluestone.git
+git push origin master
+git config --global remote.origin.receivepack "git receive-pack"
+git push origin master
+find / -name *.pub
+pwd
+cd .ssh
+ll
+cat id_rsa.pub 
+cat authorized_keys 
+ssh localhost
+git push origin master
+ll
+git push origin master push
+git push origin master
+clear
+history
+git remote rm origin && git remote add origin devops-bluestone@github.com:devops.bluestone.git
+git config --global remote.origin.receivepack "git receive-pack"
+git push -u origin master
