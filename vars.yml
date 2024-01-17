@@ -18,3 +18,4 @@
      debug: msg=" my hostname is {{ansible_nodename}}"
    - name: Print  the IP
      debug: var=hostvars['kemet'].server.stdout
+added a new file on Jan 17 2024
